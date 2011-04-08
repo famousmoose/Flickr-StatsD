@@ -1,0 +1,2 @@
+version=3
+http://search.cpan.org/dist/Flickr-StatsD/   .*/Flickr-StatsD-v?(\d[\d.-]+)\.(?:tar(?:\.gz|\.bz2)?|tgz|zip)$

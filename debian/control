@@ -1,0 +1,16 @@
+Source: libflickr-statsd-perl
+Section: perl
+Priority: optional
+Build-Depends: debhelper (>= 7)
+Build-Depends-Indep: perl
+Maintainer: stuart <stuart@oidipous.parthenon.local>
+Standards-Version: 3.8.3
+Homepage: http://search.cpan.org/dist/Flickr-StatsD/
+
+Package: libflickr-statsd-perl
+Architecture: all
+Depends: ${perl:Depends}, ${misc:Depends}
+Description: Flickr's statsd package
+ Flickr's statsd package
+ .
+ This description was automagically extracted from the module by dh-make-perl.
